@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Coming+Soon|Itim|Patrick+Hand');
+
+body {
+  background-color: #e6ffff;
+  color: #1339a4;
+  font-family: 'Coming Soon', 'Comic Neue', 'Comic Sans', cursive;;
+}
+
+header {
+  font-size: 32px;
+}
+
+.neckdown {
+  display: flex;
+}
+
+.main {
+  width: 70%;
+}
+
+.sidebar {
+  width: 30%;
+}
