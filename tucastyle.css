@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Coming+Soon|Itim|Patrick+Hand');
+@import url('https://fonts.googleapis.com/css?family=Coming+Soon|Patrick+Hand');
 
 body {
   background-color: #e6ffff;
@@ -8,6 +8,15 @@ body {
 
 h1 {
   text-transform: uppercase;
+  font-weight: bold;
+}
+
+.title, .viewcount {
+  font-family: 'Patrick Hand';
+}
+
+.viewcount {
+  font-size: 22px;
 }
 
 small {
