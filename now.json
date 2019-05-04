@@ -4,14 +4,8 @@
   "alias": "chirpeo.com",
   "builds": [
     {
-      "src": "/",
+      "src": "**/*",
       "use": "@now/static"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/index.html",
-      "dest": "/watchthisshit?v=w3z..."
     }
   ],
   "github": {
