@@ -6,6 +6,15 @@ body {
   font-family: 'Coming Soon', 'Comic Neue', 'Comic Sans', cursive;;
 }
 
+h1 {
+  text-transform: uppercase;
+}
+
+small {
+  font-size: .5em;
+  vertical-align: super;
+}
+
 header {
   font-size: 32px;
 }
