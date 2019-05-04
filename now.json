@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "name": "chirpeo",
+  "alias": "chirpeo.com",
+  "builds": [
+    {
+      "src": "/",
+      "use": "@now/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/index.html",
+      "dest": "/watchthisshit?v=w3z..."
+    }
+  ],
+  "github": {
+    "silent": true
+  }
+}
